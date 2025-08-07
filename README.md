@@ -1,5 +1,5 @@
 # ML-101-Workshop
-This repo contains src code used during the ML - 101 workshop hosted by IEEE Bangalore Section as a part of IEEE CCONNECT.
+This repo contains src code used during the ML - 101 workshop hosted by IEEE Bangalore Section as a part of ML 101
 
 📘 StudyBuddy: Ask Your PDF Anything
 🔧 Tech Stack
